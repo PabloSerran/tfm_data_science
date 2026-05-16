@@ -5,3 +5,4 @@ seaborn
 ydata-profiling
 scipy
 statsmodels
+ipywidgets
