@@ -6,11 +6,13 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "fg-data-profiling",
+    "imblearn>=0.0",
     "ipykernel>=7.2.0",
     "ipywidgets>=8.1.8",
     "matplotlib>=3.10.0",
     "numpy>=2.3.5",
     "pandas>=2.3.3",
+    "scikit-learn>=1.8.0",
     "scipy>=1.16.3",
     "seaborn>=0.13.2",
     "setuptools>=82.0.1",
